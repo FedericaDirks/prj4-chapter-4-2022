@@ -1,0 +1,16 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#my-container {background-color: darkgreen;
+text-align:center;padding:0.5em; 
+	border: #000000 medium
+}
+
+.staying-positive{color: darkgreen}
+.name{color: darkgreen}
+
+.h3-positivaty-text{color: aliceblue}
+
+.paragraph{color: aliceblue}
+
+.link{color: aliceblue}
